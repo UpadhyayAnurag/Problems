@@ -1,5 +1,6 @@
 import Array.LeftRotateArrayOne;
 import Array.RemoveDuplicatesFromSortedArray;
+import Array.RotateArray;
 import Array.SecondMaximumInArray;
 
 public class Main {
@@ -16,6 +17,14 @@ public class Main {
         int[] arr = {1,2,3,4,5};
         int[] res = LeftRotateArrayOne.leftRotateArray(arr);
         for(int ele : res){
+            System.out.print(ele+ " ");
+        }
+        System.out.println();
+
+        // Rotate Array
+        int[] rot_arr = {1,2,3,4,5,6,7};
+        RotateArray.rotate(rot_arr, 3);
+        for(int ele : rot_arr){
             System.out.print(ele+ " ");
         }
     }
