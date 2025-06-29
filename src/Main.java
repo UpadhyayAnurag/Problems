@@ -1,7 +1,4 @@
-import Array.LeftRotateArrayOne;
-import Array.RemoveDuplicatesFromSortedArray;
-import Array.RotateArray;
-import Array.SecondMaximumInArray;
+import Array.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -25,6 +22,14 @@ public class Main {
         int[] rot_arr = {1,2,3,4,5,6,7};
         RotateArray.rotate(rot_arr, 3);
         for(int ele : rot_arr){
+            System.out.print(ele+ " ");
+        }
+        System.out.println();
+
+        // Move Zeroes
+        int[] mov_zero = {0,1,0,3,12};
+        MoveZeroes.moveZeroes(mov_zero);
+        for(int ele : mov_zero){
             System.out.print(ele+ " ");
         }
     }
