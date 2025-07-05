@@ -27,5 +27,3 @@
 - Problem Link: https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1
 - Difficulty: Medium
 - Time Complexity: O(m+n)
-
-..
