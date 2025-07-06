@@ -50,5 +50,9 @@ public class Main {
         // Max Consecutive One's
         int[] maxOnes = {1,0,1,0,1,1,1,0,1,1,1,1};
         System.out.println(MaxConsecutive1s.maxConsecutive1s(maxOnes));
+
+        // Number Appearing Once in Array
+        int[] numOnce = {1,2,3,3,2,4,1,5,4};
+        System.out.println(SingleNumber.singleAppearance(numOnce));
     }
 }
