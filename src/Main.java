@@ -46,5 +46,9 @@ public class Main {
         int[] nums2 = {1, 2, 3, 6, 7};
         ArrayList<Integer> lst = UnionOf2SortedArrays.union(nums1, nums2);
         System.out.println(lst);
+
+        // Max Consecutive One's
+        int[] maxOnes = {1,0,1,0,1,1,1,0,1,1,1,1};
+        System.out.println(MaxConsecutive1s.maxConsecutive1s(maxOnes));
     }
 }
