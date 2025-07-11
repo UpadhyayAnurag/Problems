@@ -54,5 +54,9 @@ public class Main {
         // Number Appearing Once in Array
         int[] numOnce = {1,2,3,3,2,4,1,5,4};
         System.out.println(SingleNumber.singleAppearance(numOnce));
+
+        // Longest Subarray with Sum K
+        int[] numsSumK = {1,2,3,4,5,6,7,8,9,10};
+        System.out.println(LongestSubarrayWithSumK.getLongestSubarray(numsSumK, 10));
     }
 }
