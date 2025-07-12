@@ -67,5 +67,13 @@ public class Main {
             System.out.print(ele+" ");
         }
         System.out.println();
+
+        // Sort Colors where 0, 1 & 2 are 3 different colors -> In-Place
+        int[] numsColor = {2,0,2,1,1,0};
+        SortColors.sortColors(numsColor);
+        for(int ele : numsColor){
+            System.out.print(ele+" ");
+        }
+        System.out.println();
     }
 }
