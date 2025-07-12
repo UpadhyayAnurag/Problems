@@ -58,5 +58,14 @@ public class Main {
         // Longest Subarray with Sum K
         int[] numsSumK = {1,2,3,4,5,6,7,8,9,10};
         System.out.println(LongestSubarrayWithSumK.getLongestSubarray(numsSumK, 10));
+
+        // 2 Sum -> Using Hashmap
+        int[] twoSum = {2,7,11,15};
+        int target = 9;
+        int[] result2Sum = TwoSum.TwoSum(twoSum, target);
+        for(int ele : result2Sum){
+            System.out.print(ele+" ");
+        }
+        System.out.println();
     }
 }
