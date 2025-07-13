@@ -75,5 +75,9 @@ public class Main {
             System.out.print(ele+" ");
         }
         System.out.println();
+
+        // Majority Element in Array
+        int[] numsMaj = {3,2,3};
+        System.out.println(MajorityElement.majorityElement(numsMaj));
     }
 }
