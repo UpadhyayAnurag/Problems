@@ -79,5 +79,9 @@ public class Main {
         // Majority Element in Array
         int[] numsMaj = {3,2,3};
         System.out.println(MajorityElement.majorityElement(numsMaj));
+
+        // Kadane's Algo to find maximum sum of subarray
+        int[] numsKad = {-2,1,-3,4,-1,2,1,-5,4};
+        System.out.println(MaxSumSubArrayUsingKadaneAlgo.maxSubArray(numsKad));
     }
 }
