@@ -8,6 +8,7 @@ public class MainForBacktracking {
         // Count Number of Subsequences with sum K
         System.out.println(CountAllSubsequenceWithSumK.totalCount(new int[]{1,2,1,1,1,1,1}, 2));
 
-
+        // Sum String
+        System.out.println(SumString.isSumString("112358"));
     }
 }
