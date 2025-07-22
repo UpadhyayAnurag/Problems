@@ -18,7 +18,7 @@ public class LongestSubarrayWithSumK {
                 maxLen = Math.max(maxLen, i + 1);
             }
 
-            // calculate the sum of remaining part i.e. x-k:
+            // calculate the sum of the remaining part i.e., x-k:
             long rem = sum - k;
 
             //Calculate the length and update maxLen:
