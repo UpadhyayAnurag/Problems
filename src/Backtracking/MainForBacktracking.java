@@ -12,6 +12,7 @@ public class MainForBacktracking {
         System.out.println(SumString.isSumString("112358"));
 
         // Find Permutation
-        System.out.println(FindAllPermutations.findPermutations(new int[]{1,2,3,4}));
+        System.out.println(FindAllPermutations.findPermutations(new int[]{1,2,3}));
+        System.out.println(FindAllPermutations.findPermutations1(new int[]{1,2,3}));
     }
 }
