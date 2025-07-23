@@ -1,5 +1,6 @@
 import Array.*;
 import Backtracking.MainForBacktracking;
+import BinarySearchProblems.MainForBinarySearch;
 
 public class Main {
     public static void main(String[] args) {
@@ -9,5 +10,8 @@ public class Main {
 
         // Running Main of Backtracking Package
         MainForBacktracking.main(new String[0]);
+
+        // Running Main for Binary Search
+        MainForBinarySearch.main(new String[0]);
     }
 }
