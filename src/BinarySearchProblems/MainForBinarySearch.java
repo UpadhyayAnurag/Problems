@@ -7,5 +7,8 @@ public class MainForBinarySearch {
 
         // Implement Lower Bound
         System.out.println(ImplementLowerBound.lowerBound(new int[]{1,2,3,4,5,6,7,8,9,10}, 101));
+
+        // Search Position to Insert an element if not present in an array
+        System.out.println(SearchInsertPosition.searchInsert(new int[]{1,3,5,6},0));
     }
 }

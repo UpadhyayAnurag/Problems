@@ -8,3 +8,7 @@
 - Difficulty: Easy
 - Time Complexity: O(log n)
 
+### Search Insert Position
+- Problem Link: https://leetcode.com/problems/search-insert-position/
+- Difficulty: Easy
+- Time Complexity: O(log n)
