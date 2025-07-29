@@ -12,3 +12,8 @@
 - Problem Link: https://leetcode.com/problems/search-insert-position/
 - Difficulty: Easy
 - Time Complexity: O(log n)
+
+### First and Last Occurrence 
+- Problem Link: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
+- Difficulty: Medium
+- Time Complexity: O(log n)
