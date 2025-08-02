@@ -1,5 +1,7 @@
 package BinarySearchProblems;
 
+import java.util.Arrays;
+
 public class MainForBinarySearch {
     public static void main(String[] args) {
         // Recursive Binary Search
@@ -10,5 +12,8 @@ public class MainForBinarySearch {
 
         // Search Position to Insert an element if not present in an array
         System.out.println(SearchInsertPosition.searchInsert(new int[]{1,3,5,6},0));
+
+        // First and Last Occurrence of an Element in an Array
+        System.out.println(Arrays.toString(FirstAndLastOccurance.firstAndLastOccurance(new int[]{1, 2, 3, 3, 3, 4, 5, 6}, 3)));
     }
 }
