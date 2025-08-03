@@ -15,5 +15,8 @@ public class MainForBinarySearch {
 
         // First and Last Occurrence of an Element in an Array
         System.out.println(Arrays.toString(FirstAndLastOccurance.firstAndLastOccurance(new int[]{1, 2, 3, 3, 3, 4, 5, 6}, 3)));
+
+        // Search In Rotated Sorted Array
+        System.out.println(SearchInRotatedSortedArray.search(new int[]{3,1}, 1));
     }
 }
