@@ -17,3 +17,8 @@
 - Problem Link: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 - Difficulty: Medium
 - Time Complexity: O(log n)
+
+### Search In Rotated Sorted Array
+- Problem Link: https://leetcode.com/problems/search-in-rotated-sorted-array/
+- Difficulty: Medium
+- Time Complexity: O(log n)
