@@ -27,3 +27,8 @@
 - Problem Link: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 - Difficulty: Medium
 - Time Complexity: O(log n) and in the worst case when all elements are the same except one that equals target O(n)
+
+### Single Element in Sorted Array
+- Problem Link: https://leetcode.com/problems/single-element-in-a-sorted-array/
+- Difficulty: Medium
+- Time Complexity: O(log n)

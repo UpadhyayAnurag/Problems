@@ -21,5 +21,8 @@ public class MainForBinarySearch {
 
         // Search In Rotated Sorted Array With Repeating Values
         System.out.println(SearchInRotatedSortedArrayWithRepeatingElement.search(new int[]{3,1,2,2,3,2,2}, 2));
+
+        // Single Element in Sorted Array
+        System.out.println(SingleElementInSortedArray.singleElement(new int[]{3,3,7,7,10,10,11,11,12}));
     }
 }
