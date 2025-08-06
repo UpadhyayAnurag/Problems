@@ -32,3 +32,8 @@
 - Problem Link: https://leetcode.com/problems/single-element-in-a-sorted-array/
 - Difficulty: Medium
 - Time Complexity: O(log n)
+
+### Peak Element In Array
+- Problem Link: https://leetcode.com/problems/find-peak-element/description/
+- Difficulty: Medium
+- Time Complexity: O(log n)

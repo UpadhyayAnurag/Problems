@@ -24,5 +24,8 @@ public class MainForBinarySearch {
 
         // Single Element in Sorted Array
         System.out.println(SingleElementInSortedArray.singleElement(new int[]{3,3,7,7,10,10,11,11,12}));
+
+        // Peak Element Of The Array
+        System.out.println(PeakElementInArray.findPeak(new int[]{1,2,3,1}));
     }
 }
