@@ -37,3 +37,8 @@
 - Problem Link: https://leetcode.com/problems/find-peak-element/description/
 - Difficulty: Medium
 - Time Complexity: O(log n)
+
+### Peak Element In Array (Without using sqrt method)
+- Problem Link: https://www.geeksforgeeks.org/problems/square-root/1
+- Difficulty: Easy
+- Time Complexity: O(log n)
