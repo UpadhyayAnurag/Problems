@@ -27,5 +27,8 @@ public class MainForBinarySearch {
 
         // Peak Element Of The Array
         System.out.println(PeakElementInArray.findPeak(new int[]{1,2,3,1}));
+
+        // Find Square Root of the Given Number
+        System.out.println(FindSqrt.findSqrt(18));
     }
 }
