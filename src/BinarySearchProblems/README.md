@@ -42,3 +42,8 @@
 - Problem Link: https://www.geeksforgeeks.org/problems/square-root/1
 - Difficulty: Easy
 - Time Complexity: O(log n)
+
+### Koko Eating Bananas
+- Problem Link: https://leetcode.com/problems/koko-eating-bananas/description/
+- Difficulty: Medium
+- Time Complexity: O(log n)
