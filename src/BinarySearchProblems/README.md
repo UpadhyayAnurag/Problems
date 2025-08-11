@@ -46,4 +46,4 @@
 ### Koko Eating Bananas
 - Problem Link: https://leetcode.com/problems/koko-eating-bananas/description/
 - Difficulty: Medium
-- Time Complexity: O(log n)
+- Time Complexity: O(n log m) where m is the max element in an array

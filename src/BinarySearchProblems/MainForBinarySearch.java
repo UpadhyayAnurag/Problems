@@ -30,5 +30,8 @@ public class MainForBinarySearch {
 
         // Find Square Root of the Given Number
         System.out.println(FindSqrt.findSqrt(18));
+
+        // KOKO Eating Banana
+        System.out.println(KokoEatingBananas.minEatingSpeed(new int[]{3,6,7,11}, 8));
     }
 }
