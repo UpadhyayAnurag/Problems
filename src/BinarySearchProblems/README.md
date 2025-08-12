@@ -47,3 +47,8 @@
 - Problem Link: https://leetcode.com/problems/koko-eating-bananas/description/
 - Difficulty: Medium
 - Time Complexity: O(n log m) where m is the max element in an array
+
+### Minimum Number of Days to make one Bouquets
+- Problem Link: https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/
+- Difficulty: Medium
+- Time Complexity: O(log n)
