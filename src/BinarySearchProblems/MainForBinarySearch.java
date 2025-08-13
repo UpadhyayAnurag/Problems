@@ -33,5 +33,8 @@ public class MainForBinarySearch {
 
         // KOKO Eating Banana
         System.out.println(KokoEatingBananas.minEatingSpeed(new int[]{3,6,7,11}, 8));
+
+        // Minimum Number of Days to make m Bouquets
+        System.out.println(MinimumDaysToMakeMBouquets.minDays(new int[]{7,7,7,7,12,7,7},2,3));
     }
 }
