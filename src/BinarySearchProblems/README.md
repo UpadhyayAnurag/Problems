@@ -48,7 +48,7 @@
 - Difficulty: Medium
 - Time Complexity: O(n log m) where m is the max element in an array
 
-### Minimum Number of Days to make one Bouquets
+### Minimum Number of Days to make M Bouquets
 - Problem Link: https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/
 - Difficulty: Medium
-- Time Complexity: O(log n)
+- Time Complexity: O n (log max - min + 1) where max = maximum in the array and min is minimum in the array
