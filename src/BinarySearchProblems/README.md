@@ -51,9 +51,14 @@
 ### Minimum Number of Days to make M Bouquets
 - Problem Link: https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/
 - Difficulty: Medium
-- Time Complexity: O n (log max - min + 1) where max = maximum in the array and min is minimum in the array
+- Time Complexity: O(n (log max - min + 1)) where max = maximum in the array and min is minimum in the array
 
 ### Find Smallest Divisor for Given a Threshold
 - Problem Link: https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
 - Difficulty: Medium
-- Time Complexity: O n (log max) where max = maximum in the array and min is minimum in the array
+- Time Complexity: O(n (log max)) where max = maximum in the array and min is minimum in the array
+
+### Capacity To Ship Packages Within D Days
+- Problem Link: https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+- Difficulty: Medium
+- Time Complexity: O(n (log max - min + 1)) where max = maximum in the array and min is minimum in the array
