@@ -36,5 +36,11 @@ public class MainForBinarySearch {
 
         // Minimum Number of Days to make m Bouquets
         System.out.println(MinimumDaysToMakeMBouquets.minDays(new int[]{7,7,7,7,12,7,7},2,3));
+
+        // Find Smallest Divisor for Given a Threshold
+        System.out.println(FindSmallestDivisorForGivenThreshold.smallestDivisor(new int[]{1,2,5,9}, 6));
+
+        // Capacity To Ship Packages Within D Days
+        System.out.println(CapacityToShipPackagesWithinDDays.shipWithinDays(new int[]{1,2,3,4,5,6,7,8,9,10}, 5));
     }
 }
