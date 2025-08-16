@@ -62,3 +62,8 @@
 - Problem Link: https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
 - Difficulty: Medium
 - Time Complexity: O(n (log max - min + 1)) where max = maximum in the array and min is minimum in the array
+
+### Kth Missing Positive Number
+- Problem Link: https://leetcode.com/problems/kth-missing-positive-number/description/
+- Difficulty: Easy
+- Time Complexity: O(log n)

@@ -42,5 +42,8 @@ public class MainForBinarySearch {
 
         // Capacity To Ship Packages Within D Days
         System.out.println(CapacityToShipPackagesWithinDDays.shipWithinDays(new int[]{1,2,3,4,5,6,7,8,9,10}, 5));
+
+        // Kth Missing Positive Number
+        System.out.println(KthMissingPositiveNumber.findKthPositive(new int[]{1,2,3,4,5,6,7,9,10}, 5));
     }
 }
