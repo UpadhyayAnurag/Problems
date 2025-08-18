@@ -67,3 +67,8 @@
 - Problem Link: https://leetcode.com/problems/kth-missing-positive-number/description/
 - Difficulty: Easy
 - Time Complexity: O(log n)
+
+### Aggressive Cows
+- Problem Link: https://www.geeksforgeeks.org/problems/aggressive-cows/1
+- Difficulty: Medium
+- Time Complexity: O n(log max-min) + O(n log n)
