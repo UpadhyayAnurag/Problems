@@ -45,5 +45,8 @@ public class MainForBinarySearch {
 
         // Kth Missing Positive Number
         System.out.println(KthMissingPositiveNumber.findKthPositive(new int[]{1,2,3,4,5,6,7,9,10}, 5));
+
+        // Aggressive Cows
+        System.out.println(AggressiveCows.aggressiveCows(new int[]{1,4,5,8}, 3));
     }
 }
