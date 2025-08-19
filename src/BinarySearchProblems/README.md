@@ -73,7 +73,7 @@
 - Difficulty: Medium
 - Time Complexity: O n(log max-min) + O(n log n)
 
-### Aggressive Cows
-- Problem Link: https://www.geeksforgeeks.org/problems/aggressive-cows/1
+### Allocate Minimum Number of Pages
+- Problem Link: https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1
 - Difficulty: Medium
-- Time Complexity: O n(log max-min) + O(n log n)
+- Time Complexity: O n(log sum-max) + O(n)
