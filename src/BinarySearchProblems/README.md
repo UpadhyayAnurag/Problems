@@ -77,3 +77,8 @@
 - Problem Link: https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1
 - Difficulty: Medium
 - Time Complexity: O n(log sum-max) + O(n)
+
+### Split Array Largest Sum
+- Problem Link: https://leetcode.com/problems/split-array-largest-sum/description/
+- Difficulty: Hard
+- Time Complexity: O n(log sum-max) + O(n)
