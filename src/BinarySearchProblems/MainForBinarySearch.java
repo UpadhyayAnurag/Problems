@@ -48,5 +48,8 @@ public class MainForBinarySearch {
 
         // Aggressive Cows
         System.out.println(AggressiveCows.aggressiveCows(new int[]{1,4,5,8}, 3));
+
+        // Allocate Minimum Number of Pages
+        System.out.println(AllocateMinimumNumberOfPages.findPages(new int[]{1,2,3,4,5,6,7,8,9,10}, 5));
     }
 }
