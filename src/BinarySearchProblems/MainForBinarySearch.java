@@ -51,5 +51,8 @@ public class MainForBinarySearch {
 
         // Allocate Minimum Number of Pages
         System.out.println(AllocateMinimumNumberOfPages.findPages(new int[]{1,2,3,4,5,6,7,8,9,10}, 5));
+
+        // Split Array Largest Sum
+        System.out.println(SplitArrayLargestSum.splitArray(new int[]{7,2,5,10,8},2));
     }
 }
