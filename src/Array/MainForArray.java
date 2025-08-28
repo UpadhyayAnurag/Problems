@@ -87,5 +87,8 @@ public class MainForArray { // This class is responsible for handling all classe
         // Best Time to Buy and Sell Stocks
         int[] numsProfit = {7,1,5,3,6,4};
         System.out.println(BestTimeToBuySellStock.maxProfit(numsProfit));
+
+        // Median Of 2 Sorted Arrays
+        System.out.println(MedianOf2SortedArrays.findMedianSortedArrays(new int[]{1,3}, new int[]{2}));
     }
 }
