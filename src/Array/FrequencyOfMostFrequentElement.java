@@ -29,7 +29,7 @@ public class FrequencyOfMostFrequentElement {
         int l = 0;
         int r = idx;
         int res = 0;
-        int mid = (l+r)/2;
+        int mid;
         while(l<=r){
             mid = (l+r)/2;
             int targetSum = (idx - mid + 1) * nums[idx];
