@@ -82,3 +82,8 @@
 - Problem Link: https://leetcode.com/problems/split-array-largest-sum/description/
 - Difficulty: Hard
 - Time Complexity: O n(log sum-max) + O(n)
+
+### Minimize Maximum Distance To Gas Station
+- Problem Link: https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1
+- Difficulty: Hard
+- Time Complexity: O(n(log n)) + O(k log n)
