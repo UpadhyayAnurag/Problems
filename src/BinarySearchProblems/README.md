@@ -87,3 +87,8 @@
 - Problem Link: https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1
 - Difficulty: Hard
 - Time Complexity: O(n(log n)) + O(k log n)
+
+### Median Of 2 Sorted Arrays
+- Problem Link: https://leetcode.com/problems/median-of-two-sorted-arrays/
+- Difficulty: Hard
+- Time Complexity: O(min(m,n))
