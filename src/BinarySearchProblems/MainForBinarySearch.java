@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class MainForBinarySearch {
     public static void main(String[] args) {
-        /*// Recursive Binary Search
+        // Recursive Binary Search
         System.out.println(RecursiveBinarySearch.binarySearch(new int[]{1,2,3,4,5,6,7,8,9,10}, 10));
 
         // Implement Lower Bound
@@ -53,9 +53,12 @@ public class MainForBinarySearch {
         System.out.println(AllocateMinimumNumberOfPages.findPages(new int[]{1,2,3,4,5,6,7,8,9,10}, 5));
 
         // Split Array Largest Sum
-        System.out.println(SplitArrayLargestSum.splitArray(new int[]{7,2,5,10,8},2));*/
+        System.out.println(SplitArrayLargestSum.splitArray(new int[]{7,2,5,10,8},2));
 
         // Minimize Max Distance to Gas Station
         System.out.println(MinimizeMaxDistanceToGasStation.minMaxDis(new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}, 9));
+
+        // Median Of Sorted Arrays
+        System.out.println(MedianOfSortedArrays.findMedianSortedArrays(new int[]{2,3,4,5},new  int[]{1}));
     }
 }
