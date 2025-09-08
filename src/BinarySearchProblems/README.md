@@ -92,3 +92,8 @@
 - Problem Link: https://leetcode.com/problems/median-of-two-sorted-arrays/
 - Difficulty: Hard
 - Time Complexity: O(min(m,n))
+
+### Kth Element Of Sorted Array
+- Problem Link: https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1
+- Difficulty: Hard
+- Time Complexity: O(min(m,n))
