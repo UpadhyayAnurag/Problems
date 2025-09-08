@@ -60,5 +60,8 @@ public class MainForBinarySearch {
 
         // Median Of Sorted Arrays
         System.out.println(MedianOfSortedArrays.findMedianSortedArrays(new int[]{2,3,4,5},new  int[]{1}));
+
+        // Kth Element Of Sorted Arrays
+        System.out.println(KthElementOfSortedArray.findKth(new int[] {1,3,5,7}, new int[] {2,4,6,8}, 4));
     }
 }
