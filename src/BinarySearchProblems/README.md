@@ -107,3 +107,8 @@
 - Problem Link: https://leetcode.com/problems/search-a-2d-matrix/
 - Difficulty: Medium
 - Time Complexity: O(log m . n)
+
+### Search A 2D Matrix 2
+- Problem Link: https://leetcode.com/problems/search-a-2d-matrix-ii/description/
+- Difficulty: Medium
+- Time Complexity: O(log m + n)
