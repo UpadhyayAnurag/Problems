@@ -66,5 +66,8 @@ public class MainForBinarySearch {
 
         // Row With Max 1's
         System.out.println(RowWithMax1s.rowsWithMax1s(new int[][] {{0, 1}, {1, 1}}));
+
+        // Search In A 2D Matrix
+        System.out.println(SearchInA2DMatrix.searchMatrix(new int[][] {{1, 3, 5, 7}, {10, 11, 16, 20}, {23, 30, 34, 50}}, 3));
     }
 }
