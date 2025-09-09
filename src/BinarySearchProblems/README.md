@@ -97,3 +97,13 @@
 - Problem Link: https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1
 - Difficulty: Hard
 - Time Complexity: O(min(m,n))
+
+### Row With Max 1's
+- Problem Link: https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1
+- Difficulty: Medium
+- Time Complexity: O(m(log n))
+
+### Search A 2D Matrix
+- Problem Link: https://leetcode.com/problems/search-a-2d-matrix/
+- Difficulty: Medium
+- Time Complexity: O(log m . n)
