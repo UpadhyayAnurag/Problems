@@ -7,3 +7,8 @@
 - Problem Link: https://leetcode.com/problems/reverse-words-in-a-string/
 - Difficulty: Medium
 - Time Complexity: O(n)
+
+### Longest Common Prefix
+- Problem Link: https://leetcode.com/problems/longest-common-prefix/
+- Difficulty: Easy
+- Time Complexity: O(n)

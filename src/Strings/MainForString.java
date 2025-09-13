@@ -7,5 +7,8 @@ public class MainForString {
 
         // Reverse Words In A String
         System.out.println(ReverseWordsInAString.reverseWords("     Hello    This Is    Anurag        "));
+
+        // Longest Common Prefix
+        System.out.println(LongestCommonPrefix.longestCommonPrefix(new String[]{"flower","flow","flight"}));
     }
 }
