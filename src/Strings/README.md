@@ -12,3 +12,8 @@
 - Problem Link: https://leetcode.com/problems/longest-common-prefix/
 - Difficulty: Easy
 - Time Complexity: O(n)
+
+### Sort Characters of a String By Frequency
+- Problem Link: https://leetcode.com/problems/sort-characters-by-frequency/
+- Difficulty: Medium
+- Time Complexity: O(n)
