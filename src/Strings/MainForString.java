@@ -10,5 +10,11 @@ public class MainForString {
 
         // Longest Common Prefix
         System.out.println(LongestCommonPrefix.longestCommonPrefix(new String[]{"flower","flow","flight"}));
+
+        // Sort Characters of a String By Frequency
+        System.out.println(SortCharactersByFrequency.frequencySort("ccaabbb"));
+
+        // Maximum Nesting Depth Of Parentheses
+        System.out.println(MaximumNestingDepthOfParentheses.maxDepth("(()(())())"));
     }
 }
