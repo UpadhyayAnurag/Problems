@@ -17,3 +17,8 @@
 - Problem Link: https://leetcode.com/problems/sort-characters-by-frequency/
 - Difficulty: Medium
 - Time Complexity: O(n)
+
+### Maximum Nesting Depth Of Parentheses
+- Problem Link: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+- Difficulty: Easy
+- Time Complexity: O(n)

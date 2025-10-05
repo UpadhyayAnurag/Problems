@@ -13,5 +13,8 @@ public class MainForString {
 
         // Sort Characters of a String By Frequency
         System.out.println(SortCharactersByFrequency.frequencySort("ccaabbb"));
+
+        // Maximum Nesting Depth Of Parentheses
+        System.out.println(MaximumNestingDepthOfParentheses.maxDepth("(()(())())"));
     }
 }
