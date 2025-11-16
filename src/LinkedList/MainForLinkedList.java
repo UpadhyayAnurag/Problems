@@ -19,5 +19,22 @@ public class MainForLinkedList {
             System.out.print(headRev.val+" ");
             headRev = headRev.next;
         }
+
+        // Creation of a Doubly Linked List
+        DoublyListNode headDoublyLL = new DoublyListNode(1);
+        {
+            headDoublyLL.next = new DoublyListNode(2);
+            headDoublyLL.next.prev = headDoublyLL;
+            headDoublyLL.next.next = new DoublyListNode(3);
+            headDoublyLL.next.next.prev = headDoublyLL.next;
+        }
+
+        // Reversing a Doubly Linked List
+        DoublyListNode headDoublyRev = ReverseADoublyLL.reverseDoublyLL(headDoublyLL);
+        System.out.println();
+        while(headDoublyRev != null) {
+            System.out.print(headDoublyRev.val+" ");
+            headDoublyRev = headDoublyRev.next;
+        }
     }
 }
