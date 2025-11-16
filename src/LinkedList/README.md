@@ -9,3 +9,7 @@
 ### Reverse a Linked List
 - Problem Link: https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1
 - Difficulty: Easy
+
+### Reverse a Doubly Linked List
+- Problem Link: https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1
+- Difficulty: Easy
