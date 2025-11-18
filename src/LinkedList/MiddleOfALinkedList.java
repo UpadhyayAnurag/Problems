@@ -9,7 +9,6 @@ public class MiddleOfALinkedList {
             slow = slow.next;
             fast = fast.next.next;
         }
-        assert slow != null;
         return slow.val;
     }
 }
