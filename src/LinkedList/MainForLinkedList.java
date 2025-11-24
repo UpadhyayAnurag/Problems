@@ -36,5 +36,13 @@ public class MainForLinkedList {
             System.out.print(headDoublyRev.val+" ");
             headDoublyRev = headDoublyRev.next;
         }
+
+        // Rotate List
+        ListNode headRotateList = RotateList.rotate((new ListNode(2, new ListNode(4, new ListNode(5, new ListNode(6, new ListNode(7, new ListNode(8))))))),2);
+        System.out.println();
+        while(headRotateList != null) {
+            System.out.print(headRotateList.val+" ");
+            headRotateList = headRotateList.next;
+        }
     }
 }
