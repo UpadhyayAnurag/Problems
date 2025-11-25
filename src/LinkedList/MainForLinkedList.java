@@ -44,5 +44,10 @@ public class MainForLinkedList {
             System.out.print(headRotateList.val+" ");
             headRotateList = headRotateList.next;
         }
+
+        // Find kth from Last
+        int kthValFromEnd = FindKthNodeFromEnd.getKthFromLast((new ListNode(2, new ListNode(4, new ListNode(5, new ListNode(6, new ListNode(7, new ListNode(8))))))),6);
+        System.out.println();
+        System.out.println(kthValFromEnd);
     }
 }

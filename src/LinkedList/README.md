@@ -17,3 +17,8 @@
 ### Rotate a Linked List
 - Problem Link: https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1
 - Difficulty: Easy
+
+### Find kth Node from End
+- Problem Link: https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1
+- Difficulty: Easy
+- Approach Used: 2 Pointers
