@@ -26,3 +26,7 @@
 ### Swap Pairs
 - Problem Link: https://www.geeksforgeeks.org/problems/pairwise-swap-of-nodes-in-linkelist/1
 - Difficulty: Medium
+
+### Detect Loop
+- Problem Link: https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1
+- Difficulty: Medium
