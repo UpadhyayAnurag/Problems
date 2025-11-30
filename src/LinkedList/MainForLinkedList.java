@@ -49,5 +49,13 @@ public class MainForLinkedList {
         int kthValFromEnd = FindKthNodeFromEnd.getKthFromLast((new ListNode(2, new ListNode(4, new ListNode(5, new ListNode(6, new ListNode(7, new ListNode(8))))))),6);
         System.out.println();
         System.out.println(kthValFromEnd);
+
+        // Pair Swap
+        ListNode pairSwapHead = PairSwap.swapPairs(new ListNode(1, new ListNode(2, new ListNode(3, new ListNode(4, new ListNode(5, new ListNode(6, new ListNode(7))))))));
+        System.out.println();
+        while(pairSwapHead != null) {
+            System.out.print(pairSwapHead.val+" ");
+            pairSwapHead = pairSwapHead.next;
+        }
     }
 }

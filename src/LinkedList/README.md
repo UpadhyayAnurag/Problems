@@ -22,3 +22,7 @@
 - Problem Link: https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1
 - Difficulty: Easy
 - Approach Used: 2 Pointers
+
+### Swap Pairs
+- Problem Link: https://www.geeksforgeeks.org/problems/pairwise-swap-of-nodes-in-linkelist/1
+- Difficulty: Medium
