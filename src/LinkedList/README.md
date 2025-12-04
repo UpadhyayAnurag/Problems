@@ -30,3 +30,7 @@
 ### Detect Loop
 - Problem Link: https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1
 - Difficulty: Medium
+
+### Delete Kth Node from End
+- Problem Link: https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/1
+- Difficulty: Medium

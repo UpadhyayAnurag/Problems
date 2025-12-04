@@ -67,5 +67,17 @@ public class MainForLinkedList {
         boolean loopDetected = DetectLoop.detectLoop(loopHead);
         System.out.println();
         System.out.println(loopDetected);
+
+        // Delete Kth Node from End
+        ListNode deleteNodeHead = new ListNode(1);
+        deleteNodeHead.next = new ListNode(2);
+        deleteNodeHead.next.next = new ListNode(3);
+        deleteNodeHead.next.next.next = new ListNode(4);
+        deleteNodeHead.next.next.next.next = null;
+        ListNode deleteHead = DeleteKthNodeFromEnd.deleteKthFromEnd(deleteNodeHead, 4);
+        while(deleteHead != null) {
+            System.out.print(deleteHead.val+" ");
+            deleteHead = deleteHead.next;
+        }
     }
 }
